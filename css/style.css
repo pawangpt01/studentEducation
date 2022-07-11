@@ -1,0 +1,191 @@
+*{padding:0px;margin:0px;font-weight:normal;}
+.topheader{width:100%;height:50px;background-color:#190a33;}
+.container{width:1100px;height:auto;margin:0 auto;}
+.topheader h4{color:white;float:left;padding-top:20px}
+.topheader h3 a{text-decoration:none;color:white;}
+.topheader h3{float:right;padding-top:20px;margin-right:30px;padding-right:10px;font-size:16px;}
+.topheader h3 a{text-decoration:none;color:white; float:left;display:inline;}
+.topheader h3 span{color:white; float: left;padding-left:20px;padding-right:10px;}
+.header{width:100%;height:150px;background-color:white;}
+.logo img{width:100px;height:auto;padding-top:40px;float:left;}
+.menu{float:right;padding-top:70px;}
+.menu ul li{display:inline;margin-right:40px;}
+.menu ul li a{color: #6921e0;text-decoration:none;}
+.menu ul li a:hover{color: #000;}
+.banner{width:100%;height:500px;overflow:hidden;background-image:url(../images/student-g68060bf21_1920.jpg);background-size: cover;}
+.banner h1{text-align:center;padding-top:50px;font-size:50px;}
+.banner h2{text-align:center;padding-top:10px;font-size:50px;}
+.line-box{width:300px;height:10px;background-color:black;text-align:center;margin:0 auto;margin-top:10px;}
+.banner p{width:30%;text-align:center;margin:0 auto;color:black;padding-top:10px;font-size:20px;}
+.box{width:180px;height:45px;text-align:center;background-color:#1b0d34;margin:0 auto;margin-top:50px;margin-bottom:20px;}
+.box h4{color:white;padding-top:12px;}
+.section10{width:100%;height:auto;overflow:hidden;margin:0 auto;}
+.box1{width:300px;height:300px;background-color:#d9c223;float:left;text-align:center;margin-right:50px;}
+.logo1 img{width:50px;height:auto;padding-top:30px;text-align:center;}
+.box1 h1{margin-top:20px;color:white;font-size:30px;}
+.box1 h2{color:white;font-size:30px;}
+.box1 p{width:150px;padding-top:15px;color:white;text-align:center;margin:0 auto;}
+.box2{width:300px;height:300px;background-color:#23d952;float:left;text-align:center;margin-right:50px;}
+.logo2 img{width:50px;height:auto;padding-top:30px;}
+.box2 h1{margin-top:20px;color:white;font-size:30px;}
+.box2 h2{color:white;font-size:30px;}
+.box2 p{width:150px;padding-top:15px;color:white;text-align:center;margin:0 auto;}
+.box3{width:300px;height:300px;background-color:#23b0d9;float:left;text-align:center;margin-right:50px;}
+.logo3 img{width:50px;height:auto;padding-top:30px;}
+.box3 h1{margin-top:20px;color:white;font-size:30px;}
+.box3 h2{color:white;font-size:30px;}
+.box3 p{width:150px;padding-top:15px;color:white;text-align:center;margin:0 auto;}
+.section{width:100%;height:auto;background-color:#0b2c36;padding-top:30px;overflow:hidden;margin:0 auto;}
+.section h1{color:white;text-align:center;margin:0 auto;padding-top:20px;font-size:25px;}
+.section h2{color:white;font-size:25px;text-align:center;margin:0 auto;margin-top:20px;}
+.section h5{color:white;font-size:30px;text-align:center;margin:0 auto;margin-top:20px;}
+.box4{width:200px;height:50px;background-color:white;border-radius:7px;float:left;margin-top:50px;margin-left:300px;}
+.box4 img{width:35px;height:auto;float:left;margin-left:20px;margin-top:5px;}
+.box4 h3{color:black;float:left;font-size:20px;margin-right:20px;margin-left:30px;}
+.box4 h4{color:black;font-size:25px;margin-left:30px;}
+.box5{width:200px;height:50px;background-color:white;border-radius:7px;float:left;margin-left:100px;margin-top:50px;}
+.box5 img{width:30px;height:auto;float:left;margin-top:10px;margin-left:20px;}
+.box5 h3{color:black;float:left;margin-left:20px;}
+.box5 h4{color:black;font-size:25px;margin-left:30px;}
+.section1{width:100%;height:auto;padding-top:50px;overflow:hidden;margin:0 auto;}
+.section2{width:30%;height:auto;float:left;margin-right:25px;text-align:center;}
+.circle img{width:200px;height:200px;border-radius:50%;border:2px solid black;}
+.section2 h1{padding-top:20px;}
+.section2 p{padding-top:20px;}
+.section2 h2{padding-top:20px;color:#1f7fec;}
+.section3{width:30%;height:auto;float:left;margin-right:25px;text-align:center;}
+.circle1 img{width:200px;height:200px;border-radius:50%;border:2px solid black;}
+.section3 h1{padding-top:20px;}
+.section3 p{padding-top:20px;}
+.section3 h2{padding-top:20px;color:#1f7fec;}
+.section4{width:30%;height:auto;float:left;text-align:center;margin-right:25px;}
+.circle2 img{width:200px;height:200px;border-radius:50%;border:2px solid black;}
+.section4 h1{padding-top:20px;}
+.section4 p{padding-top:20px;}
+.section4 h2{padding-top:20px;color:#1f7fec;}
+.box6{width:100%;height:auto;background-color:#25456b;overflow:hidden;margin:0 auto;}
+.box6 h1{color:white;text-align:center;margin:0 auto;padding-top:40px;font-size:40px;}
+.box6 p{color:white;text-align:center;margin:0 auto;padding:10px;font-size:20px;}
+.box7{width:50%;height:400px;float:left;}
+.box7 p{color:white;}
+.box7 h2{color:white;margin-top:20px;margin-left:100px;}
+.box7 i{margin-right:10px;}
+.box7 h3{color:white;margin-top:10px;margin-left:100px;font-size:25px;}
+.box7 h4{color:white;margin-top:10px;margin-left:100px;font-size:25px;}
+.box7 h5{color:white;margin-top:10px;margin-left:100px;font-size:25px;}
+.box7 h6{color:white;margin-top:10px;margin-left:100px;font-size:25px;}
+.box9{width:170px;height:60px;background-color:#f2d71e;margin-top:50px;margin-left:100px;}
+.box9 p{color:white;padding-top:15px;font-size:25px;}
+.box8{width:40%;height:420px;float:left;padding-top:20px;margin-left:20px;}
+.box8 img{width:470px;height:380px;}
+.section5{width:100%;height:auto;overflow:hidden;margin:0 auto;}
+.section6{width:150px;height:auto;padding-top:50px;float:left;margin-left:100px;}
+.section6 h1{color:#ec1fb4;margin-top:20px;font-size:20px;}
+.section6 h2{color:black;margin-top:30px;font-size:20px;}
+.section6 h3{color:black;margin-top:10px;font-size:20px;}
+.section6 h4{color:black;margin-top:10px;font-size:20px;}
+.section7{width:150px;height:auto;padding-top:50px;float:left;margin-left:100px;}
+.section7 h1{color:#ec1fb4;margin-top:20px;font-size:22px;}
+.section7 h2{color:black;margin-top:30px;font-size:20px;}
+.section7 h3{color:black;margin-top:10px;font-size:20px;}
+.section7 h4{color:black;margin-top:10px;font-size:20px;}
+.section7 h5{color:black;margin-top:10px;font-size:20px;}
+.section8{width:150px;height:auto;padding-top:50px;float:left;margin-left:100px;}
+.section8 h1{color:#1f7fec;margin-top:20px;font-size:25px;}
+.section8 h2{color:black;margin-top:30px;font-size:20px;}
+.section8 h3{color:black;margin-top:20px;font-size:20px;}
+.section9{width:150px;height:auto;padding-top:50px;float:left;margin-left:100px;}
+.section9 h1{color:#1f7fec;margin-top:20px;font-size:20px;}
+.section9 h5{color:#1f7fec;font-size:20px;}
+.section9 h2{color:black;margin-top:10px;font-size:20px;}
+.section9 h3{color:black;margin-top:10px;font-size:20px;}
+.section9 h4{color:black;margin-top:10px;font-size:20px;}
+.contactCls1{float:right; color:#1f7fec;padding-top:30px;font-size:40px;padding-right:120px;}
+.contactcls1 img{width:140px;height:auto;}
+@media screen and (max-width:600px){
+	.container{width:95%;}
+
+.menu{display:none;}
+.banner{width:100%;height:auto;}
+.banner h1{font-size:35px;}
+.banner h2{font-size:35px;}
+.banner p{width:50%;font-size:20px;}
+.box{width:150px;margin-top:30px;}
+.line-box{width:200px;}
+.topheader span{display:inline;}
+.boxes{height:220px;}
+.box1{width:100%;height:auto;}
+.logo1 img{width:50px;height:auto;margin-top:10px;padding-top:10px;}
+.box1 h1{font-size:20px;margin-top:15px;}
+.box1 h2{font-size:20px;}
+.box1 p{width:80%;font-size:20px;}
+.box2{width:100%;height:auto;margin-top:50px;}
+.logo2 img{width:50px;height:auto;padding-top:10px;}
+.box2 h1{font-size:20px;margin-top:15px;}
+.box2 h2{font-size:20px;}
+.box2 p{width:80%;font-size:20px;}
+.box3{width:100%;height:auto;margin-top:50px;}
+.logo3 img{width:50px;height:auto;padding-top:10px;}
+.box3 h1{font-size:20px;margin-top:15px;}
+.box3 h2{font-size:20px;}
+.box3 p{width:80%;font-size:20px;}
+.section h1{font-size:18px;}
+.section h2{font-size:18px;}
+.section h1{font-size:22px;}
+.box4{width:200px;margin-left:20px;}
+.box5{width:200px;margin-left:20px;}
+.section1{}
+.section2{width:100%;height:auto;}
+.circle img{width:100px;height:100px;}
+.section2 h1{padding-top:5px;font-size:20px;}
+.section2 p{padding-top:5px;}
+.section2 h2{padding-top:8px;font-size:15px;}
+.section3{width:100%;height:auto;float:left;margin-right:25px;text-align:center;}
+.circle1 img{width:100px;height:100px;border-radius:50%;border:2px solid black;}
+.section3 h1{padding-top:5px;font-size:20px;}
+.section3 p{padding-top:30px;}
+.section3 h2{padding-top:5px;font-size:15px;}
+.section4{width:100%;height:auto;}
+.circle2 img{width:100px;height:100px;}
+.section4 h1{padding-top:5px;font-size:20px;}
+.section4 p{padding-top:7px;}
+.section4 h2{padding-top:5px;font-size:15px;}
+.box6{width:100%;height:auto;}
+.box6 h1{padding-top:10px;font-size:30px;}
+.box6 p{padding:10px;font-size:15px;}
+.box7{width:50%;height:400px;padding-top:20px;}
+.box7 p{font-size:12px;}
+.box7 h2{margin-top:20px;margin-left:50px;font-size:12px;}
+.box7 h3{margin-top:10px;margin-left:50px;font-size:12px;}
+.box7 h4{margin-top:10px;margin-left:50px;font-size:12px;}
+.box7 h5{margin-top:10px;margin-left:50px;font-size:12px;}
+.box7 h6{margin-top:10px;margin-left:50px;font-size:12px;}
+.box9{width:130px;height:40px;margin-top:30px;margin-left:50px;}
+.box9 p{padding-top:10px;font-size:15px;}
+.box8{width:40%;height:400px;padding-top:40px;margin-left:10px;}
+.box8 img{width:230px;height:317px;}
+.section5{width:100%;}
+.section6{width:100%;padding-top:20px;}
+.section6 h1{margin-left:70px;}
+.section6 h2{margin-left:70px;}
+.section6 h3{margin-left:70px;}
+.section6 h4{margin-left:70px;}
+.section7{width:100%;padding-top:20px;}
+.section7 h1{margin-left:70px;}
+.section7 h2{margin-left:70px;}
+.section7 h3{margin-left:70px;}
+.section7 h4{margin-left:70px;}
+.section7 h5{margin-left:70px;}
+.section8{width:100%;padding-top:20px;}
+.section8 h1{margin-left:70px;}
+.section8 h2{margin-left:70px;}
+.section8 h3{margin-left:70px;}
+.section9{width:100%;padding-top:20px;}
+.section9 h1{margin-left:70px;}
+.section9 h5{margin-left:70px;}
+.section9 h2{margin-left:70px;}
+.section9 h3{margin-left:70px;}
+.section9 h4{margin-left:70px;}
+.contactCls1 img{position:relative;right:40px;}
+}
+
