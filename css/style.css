@@ -12,7 +12,7 @@
 .menu ul li{display:inline;margin-right:40px;}
 .menu ul li a{color: #6921e0;text-decoration:none;}
 .menu ul li a:hover{color: #000;}
-.banner{width:100%;height:500px;overflow:hidden;background-image:url(../images/student-g68060bf21_1920.jpg);background-size: cover;}
+.banner{width:100%;height:500px;overflow:hidden;background-image:url(../images/student-g68060bf21_1920.jpg);background-size: cover;padding-bottom:20px;}
 .banner h1{text-align:center;padding-top:50px;font-size:50px;}
 .banner h2{text-align:center;padding-top:10px;font-size:50px;}
 .line-box{width:300px;height:10px;background-color:black;text-align:center;margin:0 auto;margin-top:10px;}
@@ -35,7 +35,7 @@
 .box3 h1{margin-top:20px;color:white;font-size:30px;}
 .box3 h2{color:white;font-size:30px;}
 .box3 p{width:150px;padding-top:15px;color:white;text-align:center;margin:0 auto;}
-.section{width:100%;height:auto;background-color:#0b2c36;padding-top:30px;overflow:hidden;margin:0 auto;}
+.section{width:100%;height:auto;background-color:#0b2c36;padding-top:30px;overflow:hidden;margin:0 auto;padding-bottom:30px;}
 .section h1{color:white;text-align:center;margin:0 auto;padding-top:20px;font-size:25px;}
 .section h2{color:white;font-size:25px;text-align:center;margin:0 auto;margin-top:20px;}
 .section h5{color:white;font-size:30px;text-align:center;margin:0 auto;margin-top:20px;}
@@ -47,7 +47,7 @@
 .box5 img{width:30px;height:auto;float:left;margin-top:10px;margin-left:20px;}
 .box5 h3{color:black;float:left;margin-left:20px;}
 .box5 h4{color:black;font-size:25px;margin-left:30px;}
-.section1{width:100%;height:auto;padding-top:50px;overflow:hidden;margin:0 auto;}
+.section1{width:100%;height:auto;padding-top:50px;overflow:hidden;margin:0 auto;padding-bottom:25px;}
 .section2{width:30%;height:auto;float:left;margin-right:25px;text-align:center;}
 .circle img{width:200px;height:200px;border-radius:50%;border:2px solid black;}
 .section2 h1{padding-top:20px;}
@@ -101,7 +101,7 @@
 .section9 h3{color:black;margin-top:10px;font-size:20px;}
 .section9 h4{color:black;margin-top:10px;font-size:20px;}
 .contactCls1{float:right; color:#1f7fec;padding-top:30px;font-size:40px;padding-right:120px;}
-.contactcls1 img{width:140px;height:auto;}
+.contactcls1 img{width:160px;height:auto;}
 @media screen and (max-width:600px){
 	.container{width:95%;}
 
